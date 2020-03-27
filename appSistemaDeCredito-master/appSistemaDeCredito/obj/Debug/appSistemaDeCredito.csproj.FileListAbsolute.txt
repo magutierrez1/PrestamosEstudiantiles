@@ -1,0 +1,92 @@
+c:\users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\bin\Debug\appSistemaDeCredito.exe.config
+c:\users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.csprojResolveAssemblyReference.cache
+c:\users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.Properties.Resources.resources
+c:\users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.csproj.GenerateResource.Cache
+c:\users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\bin\Debug\appSistemaDeCredito.exe
+c:\users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\bin\Debug\appSistemaDeCredito.pdb
+c:\users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\bin\Debug\Oracle.DataAccess.dll
+c:\users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.exe
+c:\users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.pdb
+C:\Users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.IniciarSesion.resources
+C:\Users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.RegistroEstudiante.resources
+C:\Users\hp one\documents\visual studio 2015\Projects\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.VistaPrincipal.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\bin\Debug\appSistemaDeCredito.exe.config
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.exe
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.pdb
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\bin\Debug\appSistemaDeCredito.exe
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\bin\Debug\appSistemaDeCredito.pdb
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\bin\Debug\Oracle.DataAccess.dll
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.csprojResolveAssemblyReference.cache
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.IniciarSesion.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.RegistroEstudiante.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.Properties.Resources.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.VistaPrincipal.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.csproj.GenerateResource.Cache
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.RegistroCodeudor.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.opciones.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\sistema creditos\appSistemaDeCredito\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.RegistrarPrestamo.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Tercera Iteracion app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\bin\Debug\appSistemaDeCredito.exe.config
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Tercera Iteracion app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.exe
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Tercera Iteracion app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.pdb
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Tercera Iteracion app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\bin\Debug\appSistemaDeCredito.exe
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Tercera Iteracion app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\bin\Debug\appSistemaDeCredito.pdb
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Tercera Iteracion app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\bin\Debug\Oracle.DataAccess.dll
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Tercera Iteracion app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.csprojResolveAssemblyReference.cache
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Tercera Iteracion app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.Actualizar_Contraseña.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Tercera Iteracion app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.ActualizarEstudiante.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Tercera Iteracion app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.Actualizar_Info_Contacto.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Tercera Iteracion app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.Actualizar_Info_General.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Tercera Iteracion app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.IniciarSesion.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Tercera Iteracion app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.opciones.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Tercera Iteracion app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.RegistrarPrestamo.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Tercera Iteracion app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.RegistroCodeudor.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Tercera Iteracion app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.RegistroEstudiante.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Tercera Iteracion app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.Properties.Resources.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Tercera Iteracion app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.VistaPrincipal.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Tercera Iteracion app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.csproj.GenerateResource.Cache
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Tercera Iteracion app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.HistorialPrestamo.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Tercera Iteracion app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.EliminarPrestamo.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\bin\Debug\appSistemaDeCredito.exe.config
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\bin\Debug\appSistemaDeCredito.exe
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\bin\Debug\appSistemaDeCredito.pdb
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\bin\Debug\Oracle.DataAccess.dll
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.csprojAssemblyReference.cache
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.Actualizar_Contraseña.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.ActualizarEstudiante.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.Actualizar_Info_Contacto.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.Actualizar_Info_General.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.EliminarPrestamo.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.HistorialPrestamo.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.IniciarSesion.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.opciones.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.RegistrarPrestamo.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.RegistroCodeudor.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.RegistroEstudiante.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.Properties.Resources.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.VistaPrincipal.resources
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.csproj.GenerateResource.cache
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.csproj.CoreCompileInputs.cache
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.csproj.CopyComplete
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.exe
+D:\ING SISTEMAS UNICAUCA\V SEMESTRE\ING DE SOFTWARE I (TEORIA)\app_SCS\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.pdb
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Iteracion Final app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\bin\Debug\appSistemaDeCredito.exe.config
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Iteracion Final app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.exe
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Iteracion Final app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.pdb
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Iteracion Final app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\bin\Debug\appSistemaDeCredito.exe
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Iteracion Final app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\bin\Debug\appSistemaDeCredito.pdb
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Iteracion Final app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\bin\Debug\Oracle.DataAccess.dll
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Iteracion Final app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.csprojResolveAssemblyReference.cache
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Iteracion Final app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.Actualizar_Contraseña.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Iteracion Final app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.ActualizarEstudiante.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Iteracion Final app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.Actualizar_Info_Contacto.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Iteracion Final app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.Actualizar_Info_General.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Iteracion Final app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.EliminarPrestamo.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Iteracion Final app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.HistorialPrestamo.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Iteracion Final app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.IniciarSesion.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Iteracion Final app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.opciones.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Iteracion Final app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.RegistrarPrestamo.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Iteracion Final app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.RegistroCodeudor.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Iteracion Final app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.RegistroEstudiante.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Iteracion Final app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.Properties.Resources.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Iteracion Final app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.VistaPrincipal.resources
+D:\UNIVERSIDAD\5 SEMESTRE\INGENIERIA DE SOTFWARE\sistema creditos\Iteracion Final app Sistema de Credito\appSistemaDeCredito-master\appSistemaDeCredito\obj\Debug\appSistemaDeCredito.csproj.GenerateResource.Cache

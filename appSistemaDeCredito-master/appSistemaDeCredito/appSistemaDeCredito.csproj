@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1743E510-C9AE-4B0B-BD89-098149DCE6EA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>appSistemaDeCredito</RootNamespace>
+    <AssemblyName>appSistemaDeCredito</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Actualizar Contraseña.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Actualizar Contraseña.Designer.cs">
+      <DependentUpon>Actualizar Contraseña.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Actualizar Estudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Actualizar Estudiante.Designer.cs">
+      <DependentUpon>Actualizar Estudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Actualizar Info Contacto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Actualizar Info Contacto.Designer.cs">
+      <DependentUpon>Actualizar Info Contacto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Actualizar Info General.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Actualizar Info General.Designer.cs">
+      <DependentUpon>Actualizar Info General.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Datos\datos.cs" />
+    <Compile Include="EliminarPrestamo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EliminarPrestamo.Designer.cs">
+      <DependentUpon>EliminarPrestamo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistorialPrestamo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistorialPrestamo.Designer.cs">
+      <DependentUpon>HistorialPrestamo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IniciarSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IniciarSesion.Designer.cs">
+      <DependentUpon>IniciarSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logica\codeudor.cs" />
+    <Compile Include="Logica\DaoCodeudorGestion.cs" />
+    <Compile Include="Logica\DaoPrestamo.cs" />
+    <Compile Include="Logica\Prestamo.cs" />
+    <Compile Include="opciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="opciones.Designer.cs">
+      <DependentUpon>opciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarPrestamo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarPrestamo.Designer.cs">
+      <DependentUpon>RegistrarPrestamo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroCodeudor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroCodeudor.Designer.cs">
+      <DependentUpon>RegistroCodeudor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroEstudiante.Designer.cs">
+      <DependentUpon>RegistroEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logica\DaoEstudianteGestion.cs" />
+    <Compile Include="Logica\Estudiante.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VistaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VistaPrincipal.Designer.cs">
+      <DependentUpon>VistaPrincipal.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Actualizar Contraseña.resx">
+      <DependentUpon>Actualizar Contraseña.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Actualizar Estudiante.resx">
+      <DependentUpon>Actualizar Estudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Actualizar Info Contacto.resx">
+      <DependentUpon>Actualizar Info Contacto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Actualizar Info General.resx">
+      <DependentUpon>Actualizar Info General.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EliminarPrestamo.resx">
+      <DependentUpon>EliminarPrestamo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistorialPrestamo.resx">
+      <DependentUpon>HistorialPrestamo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IniciarSesion.resx">
+      <DependentUpon>IniciarSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="opciones.resx">
+      <DependentUpon>opciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarPrestamo.resx">
+      <DependentUpon>RegistrarPrestamo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroCodeudor.resx">
+      <DependentUpon>RegistroCodeudor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroEstudiante.resx">
+      <DependentUpon>RegistroEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VistaPrincipal.resx">
+      <DependentUpon>VistaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usuario.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usu1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\usuariaA.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
